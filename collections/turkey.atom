@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/turkey.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-03-24T10:35:03-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558609743949</id>
+    <published>2020-03-24T10:35:03-04:00</published>
+    <updated>2020-03-24T10:35:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-salmon-beef-mix-5lb-bags"/>
+    <title>Turkey, Salmon, Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeySalmonBeefMix-Cube.jpg?v=1586639433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Salmon Beef Mix" is the ultimate exclusive blend diet to dog raw food. It provides a healthy balance of premium proteins, healthy fat, and omega-3 nutrients.<br></p>
+<p><strong>Ingredients</strong>: Boneless Turkey Meat, Salmon Meat, Beef Organs, Beef Tripe, Turkey Bones<br></p>
+<p><strong>Price per LB</strong> - $3.69</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558609743949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558608334925</id>
+    <published>2020-03-24T10:31:32-04:00</published>
+    <updated>2020-03-24T10:31:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-beef-mix-5lb-bags"/>
+    <title>Turkey Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeyBeefMix-ProductImage.jpg?v=1585502924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Beef Mix" is the premium balance diet to dog raw food. It provides a healthy balance of premium and basic protein. It is a favorite for any dog owners. </p>
+<p><strong>Ingredients</strong>: Boneless Turkey Meat, Beef Heart, Beef Tripe, Beef Offal, Turkey Bones</p>
+<p><strong>Price per LB</strong> - $3.69</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558608334925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558606663757</id>
+    <published>2020-03-24T10:29:18-04:00</published>
+    <updated>2020-03-24T10:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-with-bones-5lb-bags"/>
+    <title>Basic Turkey - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BasicTurkey-ProductImage.jpg?v=1585503210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            16.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Basic Turkey" is the most concentrated premium diet to dog raw food. It provides the most premium single-protein meal to raw feeding. It is a favorite for any dog owners.  Even though Chicken is the cheapest in the raw food category, Turkey diet provides the next level of balance protein and healthy fat for your dog.</p>
+<p><strong>Ingredients</strong>: Boneless Turkey Meat, Turkey Meat with Bone</p>
+<p><strong>Unit Price:</strong><span>  $3.25 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558606663757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4557622476877</id>
+    <published>2020-03-23T10:45:09-04:00</published>
+    <updated>2020-03-23T10:45:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/complete-turkey-5lb-bags"/>
+    <title>Complete Turkey - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/CompleteTurkey-Cube_fbb02721-bee8-437d-be62-bf4c7271017a.jpg?v=1589553475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Complete Turkey Mix" offers a premium protein raw food diets. It provides the best nutrients with a wide variety of premium meat and organs for a healthy balance meal. <br></p>
+<p><strong>Ingredients<span>: </span></strong>Boneless Turkey Meat, Turkey Organs, Turkey Bones</p>
+<p><strong><span>Price per LB - </span></strong>$3.50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4557622476877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/fish-seafood.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-03-24T23:41:06-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559092383821</id>
+    <published>2020-03-24T23:41:06-04:00</published>
+    <updated>2020-03-24T23:41:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/butter-fish-400g-bag"/>
+    <title>Butter Fish - 400g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/ButterFish-ProductImage.jpg?v=1585497289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Butter Fish" are wild caught unique garnish to compliment current regular raw diet for your pets.  Providing a rich nutrients in fatty acid and omega-3.  A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Whole Butter Fish (Wild Caught)</p>
+<p><strong>Price per Pack (400g)</strong> - $4.99<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559092383821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559089762381</id>
+    <published>2020-03-24T23:38:46-04:00</published>
+    <updated>2020-03-24T23:38:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/anchovy-300g-bag"/>
+    <title>Anchovy - 300g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Anchovy-ProductImage.jpg?v=1585502007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Anchovy" is the most unique offering for raw pet diet related to cognitive nutrients and omega-3 fatty acids. A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Anchovy(Headless)</p>
+<p><strong>Unit Price:</strong><span>  $4.99 / per pack (300-g)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559089762381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559083569229</id>
+    <published>2020-03-24T23:33:09-04:00</published>
+    <updated>2020-03-24T23:33:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/sea-smelt-headless-1lb-bag"/>
+    <title>Sea Smelt  - 1 LB</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/SeaSmelt.jpg?v=1586639700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Sea Smelt" is the most unique offering for raw pet diet related to cognitive nutrients and omega-3 fatty acids. A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Whole Sea Smelt</p>
+<p><strong>Price per Pack (1 LB)</strong> - $3.99<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559083569229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559082684493</id>
+    <published>2020-03-24T23:32:19-04:00</published>
+    <updated>2020-03-24T23:32:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/sardine-whole-750g-bag"/>
+    <title>Sardine (Whole) - 750g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Sardine-ProductImage.jpg?v=1585500278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Sardine" is the most unique offering for raw pet diet related to cognitive nutrients and omega-3 fatty acids. A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Sardine(Whole)</p>
+<p><strong>Price per Pack (750g)</strong> - $5.99<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559082684493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559039135821</id>
+    <published>2020-03-24T22:50:23-04:00</published>
+    <updated>2020-03-24T22:50:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/mackerel-whole-750g-bag"/>
+    <title>Mackerel (Whole) - 750g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Mackerel-ProductImage.jpg?v=1585499838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Mackerel" is the most unique offering for raw pet diet related to cognitive nutrients and omega-3 fatty acids. A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Mackerel (Whole)</p>
+<p><strong>Price per Pack (750g)</strong> - $5.99<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559039135821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558840987725</id>
+    <published>2020-03-24T16:48:25-04:00</published>
+    <updated>2020-03-24T16:48:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/basic-salmon-5lb-bags"/>
+    <title>Salmon - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BasicSalmon-PackagedImage.jpg?v=1599330679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Basic Salmon" is the most concentrated nutrient related to cognitive nutrients and omega-3 fatty acids. It provides the healthiest of nutrients to your pet's health and coat.  A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Boneless Salmon Meat, and Salmon Bone</p>
+<p><strong>Unit Price:</strong><span>  $3.75 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558840987725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

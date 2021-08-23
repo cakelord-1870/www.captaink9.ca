@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/pork.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-03-24T22:32:52-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559024717901</id>
+    <published>2020-03-24T22:32:52-04:00</published>
+    <updated>2020-03-24T22:32:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-tail-3lb-bags"/>
+    <title>Pork Tail - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Tail" is one of the select few dog raw food seller that provides wholesome organs for your pet's raw diet.  By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health.</p>
+<p><strong>Ingredients</strong>: Pork Tail</p>
+<p><strong>Price per LB - $3.25</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559024717901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559014133837</id>
+    <published>2020-03-24T22:17:47-04:00</published>
+    <updated>2020-03-24T22:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-tongue-3lb-bags"/>
+    <title>Pork Tongue - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Tongue" is one of the select few dog raw food seller that provides wholesome organs for your pet's raw diet.  By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health.</p>
+<p><strong>Ingredients</strong>: Pork Tongue</p>
+<p><strong>Price per LB - $3.50</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559014133837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559013511245</id>
+    <published>2020-03-24T22:16:48-04:00</published>
+    <updated>2020-03-24T22:16:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-cheek-3lb-bags"/>
+    <title>Pork Cheek - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/PorkCheek-ProductImage.jpg?v=1585502958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Cheek" is one of the select few dog raw food seller that provides wholesome organs for your pet's raw diet.  By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health.</p>
+<p><strong>Ingredients</strong>: Pork Cheek</p>
+<p><strong>Price per LB - $3.25</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559013511245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558791114829</id>
+    <published>2020-03-24T15:15:42-04:00</published>
+    <updated>2020-03-24T15:15:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/complete-pork-5lb-bags"/>
+    <title>Complete Pork - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/CompletePork-Cube.jpg?v=1589553263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Complete Pork" provides a protein base alternative for raw food diet. It provides the most variety and balance protein in a meal to raw feeding. <br></p>
+<p><strong>Ingredients</strong>: Boneless Pork Meat, Pork Offals, Pork Bone<br></p>
+<p><strong>Unit Price:</strong>  $3.69 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558791114829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

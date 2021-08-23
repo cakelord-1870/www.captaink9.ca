@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/beef.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2021-07-31T17:57:33-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/6631262355533</id>
+    <published>2021-07-31T17:57:33-04:00</published>
+    <updated>2021-07-31T17:57:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-triffal"/>
+    <title>Beef Triffal Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">CaptainK9's "Beef Triffal" is one of the select few dog raw food products<span data-mce-fragment="1"> </span>that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health. This item contains an assortment of all major organs from the livestock and tripe portioned at half and half. *This item does not contain intestines*</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients</strong>: Beef Offal, Beef Tripe</p>
+<p data-mce-fragment="1"><strong>Unit Price:</strong><span>  $3.45 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/6631262355533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563083919437</id>
+    <published>2020-03-29T14:44:04-04:00</published>
+    <updated>2020-03-29T14:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-heart-cube-3lb-bags"/>
+    <title>Beef Heart Cube -  3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefHeart-Cube.jpg?v=1589553114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Heart Cube" is one of the select few dog raw food seller that provides wholesome cardio nutrients for your pet's raw diet.  By infusing organs with meat diet, your dog can obtain rich nutrients and additional nutrients to further enhance their organ health.</p>
+<p><strong>Ingredients</strong>: Beef Heart<br></p>
+<p><strong>Unit Price:</strong><span>  $2.75 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563083919437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558807400525</id>
+    <published>2020-03-24T15:43:34-04:00</published>
+    <updated>2020-03-24T15:43:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-basic-5lb-bags"/>
+    <title>Basic Beef - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BasicBeef-ProductImage.jpg?v=1585503112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Basic Beef" is the most basic entry protein diet to dog raw food. It provides the most basic single-protein meal to raw feeding. It is a favorite for any dog owners.  </p>
+<p><strong>Ingredients</strong>: Boneless Beef Meat, and Beef Bone</p>
+<p><strong>Unit Price:</strong><span>  $3.69 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558807400525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558609743949</id>
+    <published>2020-03-24T10:35:03-04:00</published>
+    <updated>2020-03-24T10:35:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-salmon-beef-mix-5lb-bags"/>
+    <title>Turkey, Salmon, Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeySalmonBeefMix-Cube.jpg?v=1586639433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Salmon Beef Mix" is the ultimate exclusive blend diet to dog raw food. It provides a healthy balance of premium proteins, healthy fat, and omega-3 nutrients.<br></p>
+<p><strong>Ingredients</strong>: Boneless Turkey Meat, Salmon Meat, Beef Organs, Beef Tripe, Turkey Bones<br></p>
+<p><strong>Price per LB</strong> - $3.69</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558609743949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558608334925</id>
+    <published>2020-03-24T10:31:32-04:00</published>
+    <updated>2020-03-24T10:31:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-beef-mix-5lb-bags"/>
+    <title>Turkey Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeyBeefMix-ProductImage.jpg?v=1585502924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Beef Mix" is the premium balance diet to dog raw food. It provides a healthy balance of premium and basic protein. It is a favorite for any dog owners. </p>
+<p><strong>Ingredients</strong>: Boneless Turkey Meat, Beef Heart, Beef Tripe, Beef Offal, Turkey Bones</p>
+<p><strong>Price per LB</strong> - $3.69</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558608334925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4557175619661</id>
+    <published>2020-03-23T01:33:29-04:00</published>
+    <updated>2020-03-23T01:33:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-tripe-3lb-bags"/>
+    <title>Beef Tripe Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefTripe-ProductImage.jpg?v=1585503227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Tripe" is one of the select few dog raw food products that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health.<span data-mce-fragment="1"> *This item does not contain intestines*</span></p>
+<p><strong>Ingredients</strong>: Beef Tripe</p>
+<p><strong>Unit Price:</strong><span>  $3.45 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4557175619661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4513184874573</id>
+    <published>2020-02-22T09:45:45-05:00</published>
+    <updated>2020-02-22T09:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pure-beef-cheeks-3lb-bags"/>
+    <title>Beef Cheek Cube- 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefCheeks-Cube.jpg?v=1589553089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Cheeks" is our proud custom beef variety to your pet's raw diet. It provides the focus recipe of healthy fat,  and additional nutrients to compliment your pet's everyday raw diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Cheek<br></p>
+<p><strong>Unit Price:</strong>  $3.75 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4513184874573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4513182449741</id>
+    <published>2020-02-22T09:41:56-05:00</published>
+    <updated>2020-02-22T09:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pure-beef-offal-3lb-bags"/>
+    <title>Beef Offal Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefOffal-Cube.jpg?v=1589553138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">CaptainK9's "<span data-mce-fragment="1">Beef Offal</span>" is one of the select few dog raw food products<span data-mce-fragment="1"> </span>that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health. This item contains an assortment of all major organs from the livestock portioned at equal ratio. *This item does not contain intestines &amp; tripe*</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients</strong>: Beef Offal</p>
+<p data-mce-fragment="1"><strong>Unit Price:</strong><span>  $3.45 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4513182449741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4374731751501</id>
+    <published>2020-02-22T09:28:56-05:00</published>
+    <updated>2020-02-22T09:28:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-with-beef-bones-5lb-bags"/>
+    <title>Complete Beef - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Product_Image_-_Beef_-_01.jpg?v=1585503320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef with Organs" is the second most popular entry diet to dog raw food. It provides the most variety and balance protein in a meal to raw feeding. It is a favorite for any dog owners.  <br></p>
+<p><strong>Ingredients</strong>: Boneless Beef Meat, Beef Tripe, Beef Offals, Beef Heart<br></p>
+<p><strong>Unit Price:</strong>  $3.79 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4374731751501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4503837245517</id>
+    <published>2020-02-16T21:46:13-05:00</published>
+    <updated>2020-02-16T21:46:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/chicken-lamb-salmon-mix-5lb-bags"/>
+    <title>Chicken, Salmon, Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Product_-_ChickenSalmonBeefMix_-_01.jpg?v=1582341871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            14.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Chicken Salmon Beef Mix" is the premium diet to dog raw food. It provides a healthy balance of premium proteins, and omega-3 nutrients.<br></p>
+<p><strong>Ingredients</strong>: Boneless Chicken Meat, Salmon Meat, Beef Organs, Beef Tripe, Chicken Bones<br></p>
+<p><strong>Price per LB</strong> - $2.85</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4503837245517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4326958891085</id>
+    <published>2019-10-30T21:45:52-04:00</published>
+    <updated>2019-10-30T21:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/chicken-beef-mix-5lb-bags"/>
+    <title>Chicken Beef Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/ChickenBeefMix-Cube.jpg?v=1589553185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            13.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Chicken Beef Mix" is the most balance diet to dog raw food. It provides a healthy balance of premium and basic protein. It is a favorite for any dog owners. </p>
+<p><strong>Ingredients</strong>: Boneless Chicken Meat, Beef Heart, Beef Tripe, Beef Offal, Chicken Bones</p>
+<p><strong>Price per LB</strong> - $2.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4326958891085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

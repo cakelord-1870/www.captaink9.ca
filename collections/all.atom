@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/all.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2021-07-31T19:26:52-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/6631289290829</id>
+    <published>2021-07-31T19:26:52-04:00</published>
+    <updated>2021-07-31T19:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/lamb-triffal-slices-3lb-bags"/>
+    <title>Lamb Triffal Slices - 3LB Bags</title>
+    <s:type></s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">CaptainK9's "Lamb Triffal" is one of the select few dog raw food products that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health. <span data-mce-fragment="1">This item contains an assortment of all major organs from the livestock and tripe portioned at half and half. *This item does not contain intestines*</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients</strong>: Lamb Offal, Lamb Tripe</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Unit Price:</strong><span data-mce-fragment="1">  $3.65 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/6631289290829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/6631262355533</id>
+    <published>2021-07-31T17:57:33-04:00</published>
+    <updated>2021-07-31T17:57:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-triffal"/>
+    <title>Beef Triffal Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">CaptainK9's "Beef Triffal" is one of the select few dog raw food products<span data-mce-fragment="1"> </span>that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health. This item contains an assortment of all major organs from the livestock and tripe portioned at half and half. *This item does not contain intestines*</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients</strong>: Beef Offal, Beef Tripe</p>
+<p data-mce-fragment="1"><strong>Unit Price:</strong><span>  $3.45 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/6631262355533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4805719261261</id>
+    <published>2020-09-05T15:56:37-04:00</published>
+    <updated>2020-09-05T15:56:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/chicken-neck-dehydrated-treats"/>
+    <title>Dehydrated Treats - Chicken Neck - 1LB Bag</title>
+    <s:type></s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Dehydrated Chicken Neck Treats" is the richest dehydrated treats diets. It provides a very healthy and natural nutrients with a wide variety of meat and organs for a healthy probiotics treats. It is a favorite for any dogs.<br></p>
+<p><strong>Ingredients<span>: </span></strong>Chicken Neck - Dehydrated</p>
+<p><strong><span>Price per LB - </span></strong>$1.25</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4805719261261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4625412063309</id>
+    <published>2020-05-09T16:38:38-04:00</published>
+    <updated>2020-05-09T16:38:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-flank-bone-test-product"/>
+    <title>Lamb Flank Bone - 2 LB Bags</title>
+    <s:type></s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/LambFlankBone.jpg?v=1594906474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Lamb Flank Bone"  provides a premium add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Lamb Flank Bone<br></p>
+<p><strong>Unit Price:</strong>  $3.75 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4625412063309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4580221452365</id>
+    <published>2020-04-11T23:29:28-04:00</published>
+    <updated>2020-04-11T23:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-trachea-3lb-bags"/>
+    <title>Beef Trachea - 2 LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefTrachea.jpg?v=1586662725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            5.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Trachea"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Trachea<br></p>
+<p><strong>Unit Price:</strong>  $2.89 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4580221452365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4580153983053</id>
+    <published>2020-04-11T22:24:14-04:00</published>
+    <updated>2020-04-11T22:24:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-humerus-bone-each-piece"/>
+    <title>Pork Humerus Bone - 3LB Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/PorkHumerusBone_57098a42-ebd1-4cf0-b21c-f3e05f24ca28.jpg?v=1594906123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Humerus Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Pork Humerus Bone<br></p>
+<p><strong>Unit Price:</strong>  $1.50 / Per pound (lb)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4580153983053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4580110237773</id>
+    <published>2020-04-11T21:47:20-04:00</published>
+    <updated>2020-04-11T21:47:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/lamb-spine-bone-3lb-bag"/>
+    <title>Lamb Spine Bone - 3LB Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/LambSpineBone.jpg?v=1586656116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            8.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Lamb Spine Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Lamb Spine Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.99 / per pound (lbs)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4580110237773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563179470925</id>
+    <published>2020-03-29T18:07:05-04:00</published>
+    <updated>2020-03-29T18:07:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/lamb-trotter-bone-each-piece"/>
+    <title>Lamb Trotter Bone - 3LB Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/LambTrotterBone-ProductImage.jpg?v=1585519748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Lamb Trotter Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Lamb Trotter Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.50 / per pound (lb)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563179470925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563178160205</id>
+    <published>2020-03-29T18:03:43-04:00</published>
+    <updated>2020-03-29T18:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-spine-bone-3lb-bags"/>
+    <title>Pork Spine Bone - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/PorkSpineBone-ProductImage.jpg?v=1585519467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            6.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Spine Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Pork Spine Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.19 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563178160205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.57</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563177275469</id>
+    <published>2020-03-29T18:02:24-04:00</published>
+    <updated>2020-03-29T18:02:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-rib-bone-2lb-bags"/>
+    <title>Pork Rib Bone - 2LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/PorkRibBone-ProductImage.jpg?v=1585519380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            7.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Rib Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Pork Rib Bone<br></p>
+<p><strong>Unit Price:</strong>  $3.69 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563177275469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563176816717</id>
+    <published>2020-03-29T18:00:49-04:00</published>
+    <updated>2020-03-29T18:00:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/pork-neck-bone-each-piece"/>
+    <title>Pork Neck Bone - 3LB Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/PorkNeckBone_0a76aa1a-acde-4962-b24f-488ce4c7ea54.jpg?v=1586661968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            6.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Pork Neck Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Pork Neck Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.29 / per pound (lbs)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563176816717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563175571533</id>
+    <published>2020-03-29T17:58:30-04:00</published>
+    <updated>2020-03-29T17:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-brisket-3lb-bags"/>
+    <title>Beef Brisket - 3 LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefBrisket.jpg?v=1586639859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Brisket"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Brisket<br></p>
+<p><strong>Unit Price:</strong>  $2.50 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563175571533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563172819021</id>
+    <published>2020-03-29T17:54:05-04:00</published>
+    <updated>2020-03-29T17:54:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-rib-bone-3lb-bags"/>
+    <title>Beef Rib Bone - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefRibBone.jpg?v=1587335729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Rib Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Rib Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.25 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563172819021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563169443917</id>
+    <published>2020-03-29T17:48:45-04:00</published>
+    <updated>2020-03-29T17:48:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-neck-bone-3lb-bags"/>
+    <title>Beef Neck Bone - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefNeckBone.jpg?v=1586639943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Neck Bone"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Neck Bone<br></p>
+<p><strong>Unit Price:</strong>  $2.50 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563169443917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563167117389</id>
+    <published>2020-03-29T17:43:27-04:00</published>
+    <updated>2020-03-29T17:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-kneecap-2lb-bags"/>
+    <title>Beef Kneecap - 2 LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefKneecap-ProductImage.jpg?v=1585518507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Kneecap"  provides an add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Kneecap<br></p>
+<p><strong>Unit Price:</strong>  $2.50 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563167117389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563166167117</id>
+    <published>2020-03-29T17:41:24-04:00</published>
+    <updated>2020-03-29T17:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-bone-with-marrow-2lb-bags"/>
+    <title>Beef Bone with Marrow (Split) - 2 LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefBonewithMarrow.jpg?v=1586639837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Bone with Marrow"  provides a premium add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Bone with Marrow<br></p>
+<p><strong>Unit Price:</strong>  $2.95 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563166167117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563165610061</id>
+    <published>2020-03-29T17:39:59-04:00</published>
+    <updated>2020-03-29T17:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-knuckle-3lb-bags"/>
+    <title>Beef Knuckle - 2 LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefKnuckle.jpg?v=1586639922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Knuckle"  provides add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Beef Knuckle<br></p>
+<p><strong>Unit Price:</strong>  $2.50 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563165610061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563134840909</id>
+    <published>2020-03-29T16:32:17-04:00</published>
+    <updated>2020-03-29T16:32:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/duck-neck-3lb-bags"/>
+    <title>Duck Neck - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/DuckNeck.jpg?v=1587335777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Duck Neck"  provides add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Duck Neck<br></p>
+<p><strong>Unit Price:</strong>  $3.75 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563134840909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563132973133</id>
+    <published>2020-03-29T16:28:38-04:00</published>
+    <updated>2020-03-29T16:28:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-leg-each-piece"/>
+    <title>Turkey Leg - Each Piece</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeyLeg-ProductImage.jpg?v=1585513901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Leg"  provides add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Turkey Leg<br></p>
+<p><strong>Unit Price:</strong>  $4.99 / each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563132973133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563128025165</id>
+    <published>2020-03-29T16:17:45-04:00</published>
+    <updated>2020-03-29T16:17:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/turkey-neck-3lb-bags"/>
+    <title>Turkey Neck - Each Piece</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/TurkeyNeck-ProductImage.jpg?v=1585513480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Turkey Neck"  provides add-on ingredients to any of your base raw diet for your pets.  Whole piece meaty bones provide a good source of additional nutrients to an already rich raw meat diet.<br></p>
+<p><strong>Ingredients</strong>: Turkey Neck<br></p>
+<p><strong>Unit Price:</strong>  $2.95 / each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563128025165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4563083919437</id>
+    <published>2020-03-29T14:44:04-04:00</published>
+    <updated>2020-03-29T14:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beef-heart-cube-3lb-bags"/>
+    <title>Beef Heart Cube -  3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BeefHeart-Cube.jpg?v=1589553114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Beef Heart Cube" is one of the select few dog raw food seller that provides wholesome cardio nutrients for your pet's raw diet.  By infusing organs with meat diet, your dog can obtain rich nutrients and additional nutrients to further enhance their organ health.</p>
+<p><strong>Ingredients</strong>: Beef Heart<br></p>
+<p><strong>Unit Price:</strong><span>  $2.75 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4563083919437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559550644301</id>
+    <published>2020-03-25T11:18:55-04:00</published>
+    <updated>2020-03-25T11:18:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/beaver-lamb-mix-5lb-bags"/>
+    <title>Basic Beaver - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/BasicBeaver-Cube.jpg?v=1589553034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Basic Beaver" offers a exotic variety to your pet's raw food diets. It provides an alternative nutrients for a healthy balance meal. <br></p>
+<p><strong>Ingredients<span>: </span></strong>Boneless Beaver Meat, and Beaver bones</p>
+<p><strong>Unit Price:</strong><span>  $5.25 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559550644301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559550054477</id>
+    <published>2020-03-25T11:17:44-04:00</published>
+    <updated>2020-03-25T11:17:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/kangaroo-lamb-mix-5lb-bags"/>
+    <title>Kangaroo Lamb Mix - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/KangarooLambMix-ProductImage.jpg?v=1585503299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Kangaroo Lamb Mix" offers a exotic variety to your pet's raw food diets. It provides an alternative nutrients for a healthy balance meal. <br></p>
+<p><strong>Ingredients<span>: </span></strong>Boneless Kangaroo Meat, Lamb offal, and Lamb bones</p>
+<p><strong><span>Price per LB - </span></strong>$5.25</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559550054477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559092383821</id>
+    <published>2020-03-24T23:41:06-04:00</published>
+    <updated>2020-03-24T23:41:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/butter-fish-400g-bag"/>
+    <title>Butter Fish - 400g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/ButterFish-ProductImage.jpg?v=1585497289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Butter Fish" are wild caught unique garnish to compliment current regular raw diet for your pets.  Providing a rich nutrients in fatty acid and omega-3.  A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Whole Butter Fish (Wild Caught)</p>
+<p><strong>Price per Pack (400g)</strong> - $4.99<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559092383821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559089762381</id>
+    <published>2020-03-24T23:38:46-04:00</published>
+    <updated>2020-03-24T23:38:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/anchovy-300g-bag"/>
+    <title>Anchovy - 300g Bag</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Anchovy-ProductImage.jpg?v=1585502007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Whole Anchovy" is the most unique offering for raw pet diet related to cognitive nutrients and omega-3 fatty acids. A highly recommended addition to your pet's regular raw diet.</p>
+<p><strong>Ingredients</strong>: Anchovy(Headless)</p>
+<p><strong>Unit Price:</strong><span>  $4.99 / per pack (300-g)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559089762381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

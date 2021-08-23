@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/rabbit.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-03-24T21:30:42-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558990508109</id>
+    <published>2020-03-24T21:30:42-04:00</published>
+    <updated>2020-03-24T21:30:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/complete-rabbit-5lb-bags"/>
+    <title>Complete Rabbit - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/CompleteRabbit-Cube.jpg?v=1589553608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Complete Rabbit" offers an exotic raw food diets. It provides an alternative nutrients to compliment the daily ingredients for extra nutrients and variety.<br></p>
+<p><strong>Ingredients<span>: </span></strong>Boneless Rabbit Meat, Rabbit Organs, and Rabbit Bones</p>
+<p><strong><span>Price per LB - </span></strong>$7.39</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558990508109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

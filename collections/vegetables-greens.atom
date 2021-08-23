@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/vegetables-greens.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-02-11T19:34:49-05:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4497207296077</id>
+    <published>2020-02-11T19:34:49-05:00</published>
+    <updated>2020-02-11T19:34:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/veggie-mix"/>
+    <title>Veggie Mix - Sold Per LB</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/VeggieMix-Cube.jpg?v=1599331406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's 'Veggie Mix' is made from our very own special blend of fresh green ingredients.  Providing a healthy addition to the raw meat diet.  A highly recommend addition to your regular meat addition.</p>
+<p><strong>Ingredients</strong>: Kelp, cucumber, carrot, broccoli, kale, celery, pumpkin, Spinach, green bean, organic apple, blueberry, strawberry, cantaloupe, kiwi, coconut oil and probiotics supplements.<br></p>
+<p><strong>Price per LB</strong><span> </span>- $6.99</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4497207296077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

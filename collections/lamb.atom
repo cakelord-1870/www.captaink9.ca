@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.captaink9.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.captaink9.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.captaink9.ca/collections/lamb.atom"/>
+  <title>CaptainK9 - Dog Services, Raw Food, Training</title>
+  <updated>2020-03-25T11:17:44-04:00</updated>
+  <author>
+    <name>CaptainK9 - Dog Services, Raw Food, Training</name>
+  </author>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559550054477</id>
+    <published>2020-03-25T11:17:44-04:00</published>
+    <updated>2020-03-25T11:17:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/kangaroo-lamb-mix-5lb-bags"/>
+    <title>Kangaroo Lamb Mix - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/KangarooLambMix-ProductImage.jpg?v=1585503299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Kangaroo Lamb Mix" offers a exotic variety to your pet's raw food diets. It provides an alternative nutrients for a healthy balance meal. <br></p>
+<p><strong>Ingredients<span>: </span></strong>Boneless Kangaroo Meat, Lamb offal, and Lamb bones</p>
+<p><strong><span>Price per LB - </span></strong>$5.25</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559550054477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559012200525</id>
+    <published>2020-03-24T22:14:28-04:00</published>
+    <updated>2020-03-24T22:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/lamb-offal-3lb-bags"/>
+    <title>Lamb Offal Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/LambOffals-Cube.jpg?v=1589553499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Lamb Offal" is one of the select few dog raw food products that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health. <span data-mce-fragment="1">This item contains an assortment of all major organs from the livestock portioned at </span><span data-mce-fragment="1">equal ratio</span><span data-mce-fragment="1">. </span><span data-mce-fragment="1">*This item does not contain intestines &amp; tripe*</span></p>
+<p><strong>Ingredients</strong>: Lamb Offal</p>
+<p><strong>Unit Price:</strong><span>  $3.65 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559012200525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4559011512397</id>
+    <published>2020-03-24T22:13:38-04:00</published>
+    <updated>2020-03-24T22:13:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/lamb-tripe-3lb-bags"/>
+    <title>Lamb Tripe Slices - 3LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/LambTripe-Cube.jpg?v=1589553524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Lamb Tripe" <span data-mce-fragment="1">is one of the select few dog raw food products that provides wholesome organs for your pet's raw diet. By infusing organs with meat diet, your dog can obtain rich nutrients and probiotics to further enhance their organ health.</span><span data-mce-fragment="1"> *This item does not contain intestines*</span></p>
+<p><strong>Ingredients</strong>: Lamb Tripe</p>
+<p><strong>Unit Price:</strong><span>  $3.65 / per pound (lbs)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4559011512397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4558835318861</id>
+    <published>2020-03-24T16:37:56-04:00</published>
+    <updated>2020-03-24T16:37:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/complete-lamb-5lb-bags"/>
+    <title>Complete Lamb - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/CompleteLamb-Cube.jpg?v=1589553243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Complete Lamb" is the one of the most premium ingredients diet to dog raw food. It provides the utmost quality in nutrients and probiotics.  <br></p>
+<p><strong>Ingredients</strong>: Boneless Lamb Meat, Lamb Tripe, Lamb Offals, and Lamb Bones<br></p>
+<p><strong>Unit Price:</strong>  $5.50 / per pound (lbs)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4558835318861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.captaink9.ca/products/4503835607117</id>
+    <published>2020-02-16T21:44:34-05:00</published>
+    <updated>2020-02-16T21:44:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.captaink9.ca/products/chicken-lamb-mix-5lb-bags"/>
+    <title>Chicken Lamb Mix  - 5LB Bags</title>
+    <s:type>Meal, Dog Raw Food</s:type>
+    <s:vendor>CaptainK9 - Dog Services, Raw Food, Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2230/8815/products/Product_-_ChickenLambMix_-_01.jpg?v=1582340344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CaptainK9 - Dog Services, Raw Food, Training<br>
+        <strong>Type: </strong>Meal, Dog Raw Food<br>
+        <strong>Price: </strong>
+            14.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CaptainK9's "Chicken Lamb Mix" is the premium diet to dog raw food. It provides a healthy balance of premium and basic protein.  </p>
+<p><strong>Ingredients</strong>: Boneless Chicken Meat, Lamb Meat, Lamb Offals, Chicken Bones</p>
+<p><strong>Price per LB</strong> - $2.89</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.captaink9.ca/products/4503835607117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>
